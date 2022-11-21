@@ -1,0 +1,6 @@
+graphic:
+    library:
+        version: capital
+
+shape:
+    version: v1
